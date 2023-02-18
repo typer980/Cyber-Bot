@@ -1,6 +1,6 @@
 -----THIS IS A SELF-HOST BOT------
 
-Goto Confiq.py and enter your bot TOKEN
+Goto Config.py and enter your bot TOKEN
 
 Run the Bot
 ----------------------------
