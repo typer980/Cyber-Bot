@@ -1,0 +1,251 @@
+The nether star cannot be destroyed by any form of explosive, making it technically more blast resistant than bedrock.
+Items can be deleted by a falling anvil.
+Golden apples were originally coded into Minecraft by one of the first female Minecrafters to ever play Minecraft, JTE she was banned from the Minecraft forums for 'stealing' notch's code. What actually happened is that JTE had managed to decipher notch's code without looking at it and introduced her new version to a server. Notch later joined the server and found out what she had done and actually really some of the changes. So when notch left the server he coded JTE's golden apple idea into the next official version of minecraft and added a feature where he would drop an apple upon death. Also on JTE's server then admin's names in the chat appeared red, that feature is still used on many servers to this day.
+Dropping a boat off of any of the following heights: 12, 13, 49, 51, 111, 114, 198, 202, 310, 315, will result in the boat breaking and dropping wooden planks and sticks just like the pre-1.9 boats did when they touched land.
+There can never be a new Minecraft music disc ever again, 5 being the last one as a total of 15 discs exist now in game. When a disc is played in a jukebox, a comparator output can be taken from it, giving a different output for each music disc. 15 is the max signal strength, there are 15 discs, so no more discs can ever exist in game.
+Speed II potion increases your speed to 140% while sprint jumping increases the speed to 130% so speed II + sprinting is faster than speed II + sprint jumping.
+There is a 1/120 chance for a zombie to drop an iron ingot/potato/carrot.
+When a sheep spawns, there is a 0.164% chance of it being a pink sheep and a 0.0082% chance of it being a baby pink sheep.
+Snow layers cannot land on a normal ice block.
+Golems don't take fall damage.
+There is an unused ghast sound that never plays in game on any version, the only place you can ever hear it is in the 1.16 nether update trailer.
+Minecraft xbox 360 edition was released on 9th May 2012 making it precisely 10 years old today. BTW very special to me.
+The default tickspeed in Minecraft is 3.
+11th of May 2009: Markus Person starts work on a brand new game, titled Cave Game. He claimed that it was 'an infiniminer clone' the first version of the game would be released 6 days later. The name was changed to Minecraft: order of the stone, but was soon shortened to Minecraft.
+Notch's father abandoned his family to go and live in a cabin in a remote forest where he died shortly after.
+Notch originally started coding on his father's new Commodore 128
+Notch was born in Stockholm Sweden
+Notch was born on the 1st of June 1979
+Notch worked as a game designer for King Games for 4 years
+Notch worked with Jalbum and then quit to work on Minecraft full time
+Notch was Married for a year before he had a divorce
+Notch founded Mojang in 2009
+Notch's middle name is Alexej
+Notch Didn't actually name Minecraft
+In the XBOX 360 and PS3 versions of Minecraft, only 20 sand can be falling at once and only 20 TNT can be lit a once.
+In Minecraft, when you look down at the world through a cloud, you can see the ground; but if there are blocks above the clouds, when you look up through the clouds you cannot see them making clouds a sort of 1 way glass.
+When breaking an oak leaves block there is a 0.000005% chance of it dropping an a sapling, 1-2 sticks, and an apple.
+The player can jump 1.25 blocks high.
+When the lily pad was introduced in Minecraft 1.0.0, it was 1/64 of a block in height; in modern day Minecraft the lily pad is 3/32 of a block in height.
+When creative mode was first introduced to Minecraft, a bug existed where the player was able to hit mobs from very far away.
+In early versions of Minecraft, brick pyramids with a base of 63 by 63 would naturally generate as a way to obtain bricks as there was no way to craft them in that version.
+Evokers can turn blue sheep red.
+The cake originally had 2 different icons in the creative mode inventory.
+In Minecraft beta 1.9 the sun was round, later a vote was held and people liked the square sun more so the change was reverted.
+In version 1.4.2 (when item frames were added to Minecraft) the player was able to place items into the item frame but if the player moved 20 blocks away from the item frame the item frame and the contents would simply disappear forever.
+When a cat is spawned in a witch hut it will always be a black cat even from a spawn egg.
+In early versions of Minecraft, there was only one variation of tree, a player then created a mod that contained huge trees; Notch noticed this and took inspiration from the player and created the annoying large oak trees that we have today and paid the player 500 dollars for his help and contribution.
+In the latest 1.19 snapshots, mangrove logs can be obtained via the bonus chest.
+Wearing frost walker boots cancels the damage from magma blocks.
+It is commonly thought that there are only 2 game modes, however there are actually 6: Survival, Hardcore, Creative, Adventure, Spectator and Demo.
+When fences were first introduced to Minecraft they had the hitbox of a full block, meaning that walking around a fence was like walking around a full block.
+The mangrove wood is the first overworld wood type to be added to Minecraft since 2013.
+The bedrock texture is just the stone texture with a very high contrast.
+In the 1.5 update there was a bug where ghasts would shoot diamond helmets at the player instead of the regular fireball.
+Before the introduction of shears to Minecraft, the way to harvest wool was to punch the sheep and the wool would drop off. Similarly the player would punch TNT to ignite it before the flint and steel had the added feature of lighting TNT.
+It is commonly thought that bedrock is the toughest block in Minecraft and indestructible by the use of explosives; however both of these are false as bedrock has a blast resistance of 18 million meaning that an explosion equivalent to 4.5 million TNT (TNT has a blast power of 4) is required to destroy bedrock using only explosives. The real toughest block in unmodified Minecraft is the barrier block with a blast resistance of 18 million and 3 (requires 4,500,000.75 TNT power to destroy)
+Breaking gravel will a fortune iii shovel will always drop flint.
+Sheep can eat grass through slab blocks.
+The reason bud powering exists within Minecraft is because Notch copied the code for the powering of doors to the powering of pistons (the bottom half of doors needed to be able to be powered from the top half being powered)
+When the the crafting table was first added in indev it was known as a workbench all the way up until beta 1.2.
+In 2014, a vote was held for the name of the new water brick blocks. Some of the options were: shale, neptone, shimmerock and of course prismarine which ended up winning the vote.
+Before the feature of 4 end crystals respawning the ender dragon, the player would build a creeper face out of clay in the end. This feature was a placeholder and was made to be temporary.
+The 1.14 villager skins were inspired by a 2018 gucci show.
+In beta 1.8 prerelease 1 (when the enderman was first introduced in Minecraft) it used the same sounds as the zombie and burned in the day.
+In Minecraft Indev: 0.31 20100129, (before the introduction of furnaces) the player would use a flint and steel to smelt ores by throwing the ores into a fire.
+Fossils are structures that generate 1/64 chunks in only desert and swamp biomes at y-levels of 320 - 0 and -8 - -63 in the overworld with 8 variants: 4 'skulls' and 4 'spines'. They are made up of bone blocks and each block that generates has a 10% chance of being a coal ore or diamond ore/deepslate diamond ore depending on the y-level.
+When snow golems were first added to Minecraft, they would shoot snowballs at the player if they were holding wheat.
+In beta 1.2 the player was able to milk squids with a bucket. This feature was removed in beta 1.3.
+In the first versions of survival test, breaking coal ore would drop 2 stone slabs and breaking other ore would drop a full block of the ore type e.g. Iron ore dropped 1 iron block.
+Multiple endermen spawning together is known as a haunting.
+In Minecraft Indev, cloth armour was what is now leather armour and was crafted by using wool or cloth as it was known at the time.
+When observers were first added to Minecraft (in 16w39a) the block update detection and output were transmitted instantly and only had a signal strength of 1.
+The portal block plays the glass breaking sounds upon being broken.
+In the first versions of survival test breaking a wooden log would drop 3-5 wooden planks.
+When a wither skeleton holds a bow, it shoots fire arrows even when unenchanted.
+When the endermite was first added to Minecraft, it originally used the same model as the silverfish.
+Endermen can are the only mob in Minecraft that can spawn in all 3 dimensions. Projectiles do not work on them as the enderman just teleports away (32 blocks maximum) or if it cannot teleport then the projectile will just bounce off the enderman.
+The stem/top face of a pumpkin will always face the same way no matter which direction you place it from. A similar property exists for lily pads where it will always face the same direction per block no matter where it is placed from.
+The redstone repeater crafting recipe is a reference to the way players would make a NOT-gate when redstone dust and redstone torches were the only way to transmit a redstone signal as repeaters were not yet added to Minecraft.
+Music disc '11' plays for precisely 1 minute 11 seconds and 111 milliseconds.
+The ancient city structure is the only place a redstone lamp can generate naturally.
+Every 10000th time the title screen is loaded, the Minecraft logo will switch 2 letters to spell Minceraft.In Minecraft Indev 0.31, the player would spawn in a small moss stone box with a flint and steel in their hotbar.
+The effects of ice, packed ice and blue ice can be felt through grass paths, mud, soul sand and many other blocks in Minecraft.
+Recently the Minecraft java edition launcher was tweaked so that the the pig on the main image now wears Technoblade's crown as a memorial of Technoblade and the importance of him on the entire Minecraft community.
+The default sea level in Minecraft is Y=64.
+Beds bounce the player 66% of the impact force back into the air and absorb 50% of fall damage.
+The advancement: 'the parrots and the bats' is awardard to the player when they breed every breedable mob in Minecraft. However, neither parrots or bats are able to be bred by the player.
+When the beacon was first added to Minecraft it's texture displayed a yellow endcrystal on the inside as a placeholder feature until it was changed 1 snapshot later.
+As of 1.19.1 pre-release 3 there are 434 splash texts; the latest one being: 'Technoblade never dies!' (splash texts are the yellow words next to the Minecraft logo when you open Minecraft)
+Killing a named slime will result in it's offspring automatically being named the same thing.
+The woodland mansion is the only place a diamond block can generate naturally.
+The Legacy console world size is 864 by 864 (XBOX 360 + PS3 + WiiU). On the other Legacy console version: XBOX 1 and PS4 , the world size is 5210 blocks max. (All due to hardware limitations)
+When hardcore mode was first announced, Notch joked about an ultra-hardcore mode existing. If this ultra hardcore idea went ahead, then it would be like regular hardcore but upon death it would delete your MINECRAFT ACCOUNT!
+Notch originally referred to diamonds as emeralds.
+Baby foxes drown in water, even when floating on the top of the water.
+The correct tool for a daylight detector is an axe.
+Not only sand, but red sand can also be smelted into glass.
+'Jeb' coded the way that spiders climb blocks by copy and pasting the code for climbing ladders and applied it to the blocks that he wanted spiders to be able to climb. So, almost every block in Minecraft is a ladder to a spider.
+Placing a bed using the set block command will only place half of the bed.
+Naturally generating stronghold chests are known as 'alter chests'.
+In the 1.13 update, the melon/pumpkin stem were given the ability to give block updates.
+The dispenser was shown in a minecart in the 1.5 redstone update trailer but was never added to Minecraft.
+Prior to the beta 1.7 update, TNT could have torches placed it's sides and top.
+Coarse dirt was originally referred to as 'grassless dirt'.
+Placing a door in a door way in a way that appears open without actually opening it will, when appearing closed, provent zombies from breaking the door. This is because of the zombie's AI thinking that the door is open. This is a similar concept to mobs walking of the side of an open trapdoor on the side of a block because the mobs see it as a full block.
+It is actually possible to turn stone into stained glazed terracotta: stone can have moss grown next to it to transform stone into moss, then a large spruce tree can be grown near the moss to be turned into podzol. The podzol can be right clicked with a shovel to become a grass path. The grass path block can have a block placed above it to turn it into dirt, where it can have a water bottle emptied onto it to turn it to mud. The mud can be placed above a dripstone spike until it drains to become clay, the clay can be smelted into terracotta which can be dyed to become stained. The stained terracotta can be smelted again to become glazed stained terracotta. This is now stained glazed terracotta that used to be stained terracotta that used to be terracotta that used to be clay that used to be mud that used to be dirt that used to be grass path that used to be podzol that used to be moss that used to be stone.
+Credit: Minecraftr#0680 Discord Server: https://discord.gg/eM8sg8FGhV
+In early versions of Minecraft, rain was able to continue falling through water, this bug was fixed in Alpha 1.0.4.
+At least 40 different blocks use the glass breaking sound: every stained glass pane, normal glass pane, every stained glass block, normal glass block, glowstone, sea lantern, ice, packed ice, blue ice, portal block. Let me know if I have missed any.
+In version 1.13, both flowing lava and lava source blocks could convert concrete powder into concrete in contrast to 1.12 prerelease 1 when only a source block could be used. The feature of lava converting concrete powder was removed all together in 1.13.1.
+The player can obtain the 'cow tipper' achievement/advancement by reeling in leather from fishing.
+As of 1.19.2, the redstone dust block has a total of 1296 possible block states.
+As of 1.8.2 prerelease 5, bedrock does not obstruct beacon beams. This feature was likely added to allow beacon beams in the nether.
+Primed TNT can be deleted using the /kill command.
+Being introduced to Minecraft in Minecraft Java edition pre-classic, the sapling was the first item to be officially added to Minecraft.
+The crafting recipe for the boat is the only possible crafting recipe to be unlocked without obtaining items, it can be unlocked by simply getting in water.
+Introduced in Minecraft 1.4, the witch mob actually has a mouth. The witch's mouth is visible when the witch's nose lifts up to drink potions.
+Prior to 1.7.2, particles would not approach the bobber while fishing, this was also the version that it became possible to fish 'bad' items such as sticks from the water.
+When filled with an eye of ender, an end portal frame will give a comparator output of 15. When there is no eye of ender in the end portal frame, it gives a comparator output of 0.
+In the early plans of potion brewing, the potion recipes were meant to be different for each world. When they were finally added into Minecraft they were brewed in cauldrons.
+There is a secret grass texture for when a snow layer is placed on to of a grass block. This texture is very rare, only being able to be seen through occasional errors in snow layer generation.
+When a fox holds items in it's mouth, it is actually holding them in it's hand. Any items held by a fox can be used as intended by the fox, for example: A fox holding a fire aspect sword will kill a chicken that will drop cooked chicken. If a fox is holding a totem of undying then if it dies then it will survive and the totem will be used.
+Hardcore mode was added in Beta 1.9 prerelease 2; until 1.9 15w37a, the player did not have the option to spectate their world after death. 
+The smoke particles from a campfire can travel up to about 10 blocks into the air before disappearing. When a hay bale is placed beneath a lit campfire, the smoke becomes 'signal smoke' and can travel up to 24 blocks higher than the campfire.
+The sponge block was added to Minecraft in Minecraft Classic and would originally decay like leaf block. The sponge later had the possibility to be used in redstone as they updated blocks in a 7 by 7 by 7 area around themselves making them useful in circuits that utilised bud powering and other block updates. They remained unobtainable in unmodified survival Minecraft until 1.8 14w25a when they could be found in ocean monuments.
+The dirt path block has the highest blast resistance out of any block that the shovel is the correct tool for with a blast resistance of 0.65. This makes sense as it could be assumed that the dirt is pressed with the shovel making it more compacted therefore a developer made it have a higher blast resistance than any other 'shovel mined' block.
+The fish on the skin of the fisherman villager is actually the old fish texture, this used to be the only fish in the game before it was swapped out for the other fish types we have today in the 1.13 update.
+Breaking a slime block with mining fatigue will still break instantly, this is because the slime block is an instant mineable block taking 0 seconds to break. Mining fatigue multiplies the break time of a block and 0 times x is still 0.
+The bottom of the boat texture actually has green pixels as a realistic detail to act as algae or some other kind of plant life on the boat.
+There is a 1 in 1,940,598 chance of a diamond, iron and gold horse armour all generating in the same stronghold alter chest.
+In the bedrock edition of Minecraft, armour stands are able to be affected by potions.
+The shape of the diamond item is the exact same shape as turtle egg item texture. When placed, turtle eggs can be crushed by most mobs, even the bee, however bats do not have the same ability to crush them.
+When hit with an invisibility potion, the shulker's shell turns invisible, leaving only its yellowish head visible.
+In many early versions of Minecraft beta, cakes, cacti, stairs and many other items appeared larger than normal blocks when dropped as items. This was fixed in Minecraft beta 1.8 pre-release.
+Applying a quick charge VI (6) book to a crossbow actually causes the charge time to be negative, meaning that the crossbow will never load. If this were to be bypassed it would take the crossbow 69.4 years to charge completely.
+Entities that are on fire will melt powder snow when they collide, powder snow was originally going to be named 'snowier snow'.
+When most mobs walk whilst on cakes they will spin around in circles, this pathfinding glitch is also shared with fences.
+There can be a maximum of 32500 characters typed into a singular command block and there are 3 different types: impulse (normal), chain, and repeating, making it the block with the most possible block states in Minecraft.
+There are at least 29 different blocks with 'constant' block animations. A few of which are: Sea lantern, nether portal, water, lava, and stonecutter.
+Prior to the alpha 1.0.14 update, the cow did not feature horns on its texture.
+Minecraft 1.3 was the last major update without a set theme or name with every update after having a theme:
+1.4- Pretty Scary Update
+1.5- The Redstone Update
+1.6- The Horse Update
+1.7- The Update That Changed The world
+1.8- The Bountiful Update
+1.9- The Combat Update
+1.10- The Frostburn Update
+1.11- The Exploration Update
+1.12- The World of Colour Update
+1.13- The Aquatic Update
+1.14- The Village and Pillage Update
+1.15- The Buzzy Bees Update
+1.16- The Nether Update
+1.17- The Caves and Cliffs Update Part 1
+1.18- The Caves and Cliffs Update Part 2
+1.19- The wild Update
+1.20- this update is yet to be named however is confirmed to have a theme that is not yet released to the public. (as of 17.10.2022)
+Before beta 1.6, any entity above the maximum build height would turn black as if it was in light level 0.
+For each loaded chunk, lightning has a 1/100,000 chance to strike (during a thunderstorm). If this lightning were to strike within a 2 block radius of a block of obsidian, the obsidian block will turn to crying obsidian.
+Prior to beta 1.2.1, every mob spawner contained the model of the pig, the only exception to this was the spawner for the cave spider. Despite using the pig model, the spawners would still spawn their correct mobs.
+Despite being a baby mob, the baby zombie will never grow up into a regular zombie.
+The warden was originally known as the 'stalker' then it was changed to 'the hollowed' before finally setting on the name 'warden'. 
+Minecraft Java edition snapshots work in the following way: take 12w42a. The first number is the year of the snapshot. W + the second number means 'week **'. The number on the end is the snapshot number of that week. For example a =1st, b =2nd, c =3rd. So 12w42a means: 2012 week 42 1st snapshot of the week.
+The entire code for the slime block wasn't actually written by anyone at Mojang. The code for the slime block was written by: 'KaboPC' and 'Panda4994'.
+The trident, added in 1.13, has an interesting property. If the player throws a loyalty trident then fills up every inventory slot, the trident will follow the player around but will not be able to be picked up until a space is free in the player's inventory.
+In Minecraft Java edition, baby villagers are the only baby mob to not have a head the size of it's adult counterparts. This is not true for bedrock.
+An observer does not have the ability to detect a bell ringing in Java, but in Bedrock Edition, it can. 
+The cake, added in Beta 1.2, can actually be used as a redstone component; when a comparator takes an output of a full cake it will provide a signal strength of 14, decreasing by 2 for each slice eaten.
+At a certain point in Minecraft Java Edition Indev 0.31, apples had a strange property where they were able to be crafted into arrows. This property was removed only a day later. However they remained completely unobtainable in survival Minecraft until Beta 1.8 pre-release when they were added to the loot table for the newly added stronghold alter chest.
+The wither is hostile to every non-undead mob in Minecraft with the exception of the ghast. The only blocks the wither cannot destroy are the following: barrier, bedrock, end portal, end portal frame, end gateway, command block, structure block, jigsaw block, light block, moving piston, and reinforced deepslate.
+The cookie was added in Beta 1.4 but could only stack up to 8 cookies until Beta 1.8 pre-release when they were finally able to stack up to 64.
+The illusioner was added into Minecraft in 1.12 17w16a, over 5 years ago. Despite this they are still not properly implemented and are only accessible through commands. A strange thing about the illusioner is that when placed in a boat, they shoot backwards.
+Before the 1.16 update, the 'clay block' and 'clay ball' both were labelled as 'clay', this was changed however so that the clay block was labelled as 'clay' and the clay ball was labelled as 'clay ball'.
+When axes were first added to Minecraft, in Minecraft Indev 0.31, the only axe was an iron axe. They were also double sided, this was later changed so that the axe was one sided, then changed again so that the axe was facing the other way.
+Dead bushes were only useful for aesthetic purposes until 1.9 when they were finally given the purpose of dropping 0-2 sticks upon being broken. They were also given the functionality of being used as furnace fuel in the 1.14 update.
+Not only blocks underwater, but waterlogged blocks are not able to be blown up by TNT. This works for any waterlogged blocks including stairs, slabs, chests, walls and many other blocks, this can work as a great defence.
+In the development Minecraft Java 1.7.2, the acacia trees used jungle logs and oak leaves while the dark oak trees used spruce logs and oak leaves until they were given their own saplings, logs, and leaves.
+In Minecraft Java edition beta 1.8 pre-release, many new status effects were added to Minecraft including: Mining fatigue, speed, invisibly, slowness, instant health, instant damage, haste, and many more.
+Added in 1.14 village and pillage update, the slowest land mob in Minecraft is the panda, specially the lazy panda varient. The lazy panda varient is easily identifiable by their smile, lying on their backs a lot, and not following a player holding bamboo when they are lying down.
+Despite being released on the 22nd of October 2013, Minecraft Java 1.7 was removed from the launcher until it was reuploaded in September 2018 with unknown changes.
+In one of the first Minecraft Java edition classic survival test versions, the sign could be spawned by the player by pressing the B key. They displayed: "This is a test of the signs. Each line can be 15 chars".
+Minecraft pre-classic was the first ever version of Minecraft to exist. Pre-classic was being coded by Notch from the 11th of May 2009 - 17th of May 2009. At the time, Minecraft was known as 'cave game' and the version was known as 'alpha'. Authough the version was later changed to pre-classic and the name of the game was of course changed to Minecraft.
+If the player walks past an enchanting table, the book on the top opens and turns towards them. However, if the player has the invisibility status effect, the book will still open and turn to face the player, making it a way to detect an invisible player.
+In the Minecraft Java edition 1.8 14w11b snapshot, there were 15 inaccessible "boring" varients of bricks, all of which used missing texture rather than the identical brick texture they had all used before. These inaccessible brick blocks were all removed in Minecraft Java edition 1.8 snapshot 14w26a leaving only the original brick block rather than the total of 16 originally implemented. 
+When ender chests were first added to Minecraft in Minecraft Java 1.3.1 12w21a, they shared to same contents to all players. This was changed however only 3 weeks later in 12w24a so that they were separate for each player which is how they remain today. 
+In Minecraft there exists a total of only 3 non boss mobs that receive 100% knockback resistance, the Iron Golem, Warden, and Shulker. The Squid comes close (when out of water) at 85% knockback resistance. The Ravager has a knockback resistance of 75% and the Hoglin and Zoglin have 60%. All Zombie varients including Zombified Piglins have 0-5% knockback resistance. No other non boss mobs have knockback resistance. 
+If a dolphin is fed raw cod or raw salmon, they will swim to the nearest ocean ruins, shipwreck, or buried treasure. If the chests are removed and the dolphin is fed again, the dolphin will find another structure with intact chests.
+In Minecraft Java edition beta 1.9 pre-release 5, a singular pixel in the bottom left of the brick block's texture was slightly brightened, this was likely that the pixel stood out to much when in a plain brick wall. 
+As the slime's movement speed is directly tied to the it's size, a size 8 slime (only accessible through commands) cannot be outrun by a player without any status effects. This is the same for any higher sizes. 
+79 items are able to be composted (as of 1.19.3), however only 2 compostable items have a 100% chance of composting (filling up a layer in the composter), cake and pumpkin pie. 
+In Minecraft Bedrock Edition, any music disc is able to be placed in a jukebox by the player, a hopper, and a dropper. The last 2 being a feature that most Minecraft Java players have wanted for years. The sound from the jukebox can be heard from up to roughly 65 blocks away. There is a mysterious square room in mineshafts, this is known as the starting room despite most players not starting from it. Before 1.18, there was a dirt floor in the room, however in 1.18 21w37a it was removed and dirt no longer generates in the starting room of mineshafts. 
+The 1.14 update saw many changes to the TNT block: in 1.14 18w43a, the TNT block received a full texture change as one of the features of 1.14 was new textures for most blocks and items. In 1.14 19w05a, TNT became a renewable resource as the newly added wandering trader has the chance to sell sand. Only 6 weeks later in 1.14 19w11a, TNT explosions drop 100% of the blocks that they destroy. 
+If a dolphin is left out of water in dry weather (not raining or thunderstorm), it will die after exactly 2 minutes. The dolphin will seek out a water body, even if the weather is not dry. They can survive submerged for roughly 4 minutes before they begin to drown. 
+If a blaze is under the invisibility status effect, the blaze itself will turn invisible however, the blaze's smoke particles will still remain visible.
+In Minecraft Java Edition Indev 20100206, seeds (now know as wheat seeds as of 1.13 18w20a) were obtained by tilling grass blocks with a hoe, as tall grass didn't exist in the version. This lasted all the way until Beta 1.6 test build 3 when breaking the new tall grass became the way to obtain seeds. 
+The first stage of placed bamboo 'bamboo sapling' was added in 1.14 18w43a however it was not changed to 'bamboo shoot' until 1.16 20w06a, over a year later in an entirely different major update, the nether update when bamboo was originally added in the Village and Pillage update. 
+In Minecraft Infdev 20100618, sand was finally able to fall realistically rather than the previous unrealistic falling mechanics. This was also when sand was finally able to be broken by falling on a non solid object, however sand would not actually drop as an item. 
+In Minecraft 0.26 survival test, the player would actually start with 10 blocks of TNT in their inventory, these blocks would however become useless in 0.28 survival test when TNT lost its explosive properties in survival mode authough they were later re-given the explosive properties. 
+Added in Minecraft Java edition beta 1.3, the bed is one of the few items that will drop itself when pushed by a piston/sticky piston. Some examples of other blocks that have this property are: torches, redstone torches, bamboo, and signs. 
+In Minecraft Java edition, despite being a hostile mob, both Slime and Magma cube mobs are not able to cause a player to be unable to sleep in a bed. However, this is not the case for Minecraft Bedrock edition and both slime types will obstruct the player from sleeping. 
+The Minecraft sleep time in a bed is 100 game ticks or exactly 5 seconds. In Minecraft Bedrock edition, waterlogged beds cannot be slept in without the water breathing or conduit power status effects. It won't even display a message saying you can't. 
+1 block high flowers are not flammable. However, 2 block high flowers are flammable; in Minecraft Java edition, the 2 block high flowers are actually exactly twice as flammable as flowers in Bedrock edition with a flammability level of 60 rather than 30 in Bedrock. 
+In real life, hyphae are 'branching filaments' that collectively make mycelium. The word 'nylium' (the blue netherack grass) is actually a combination of 'nether' and 'mycelium' making the word 'hyphae' very fitting to the warped forest environment in the nether. 
+In Minecraft Java edition, huge mushrooms can only be found in 2 biomes: mushroom fields, and dark forest. However, in Minecraft Bedrock edition, the huge mushrooms can be found in a total of 6 biomes: mushroom fields, dark forest, swamp, flower forest, swamp hills, and dark forest hills. Authough the last 2, swamp hills and dark forest hills are unused and will therefore never generate in a Minecraft Bedrock world. 
+Originally, snow would pass through glass when landing. This was changed in Minecraft Java edition Alpha v1.0.5 so that snow would land properly rather than under the glass blocks. 
+No mobs can spawn on glass blocks. The only exception to this is the zombie reinforcements that spawn when another zombie is attacked. 
+At some point in Minecraft Java Edition Alpha, any wood block that had 1 face of the block on fire would result in both the wood and the fire lasting forever. Wood could not be destroyed by fire unless multiple sides were burning at the same time. 
+If the player mines a block of stone with their fist it will take exactly 7.5 seconds (150 game ticks). However, if the player mines a block of cobblestone with their fist it will take exactly 10 seconds (200 game ticks). 
+When iron ore was first added to Minecraft, it would spawn in massive blobs, sometimes reaching over 167 blocks in total. That's enough to craft over 5 anvils or 4 iron golems. 
+In Minecraft Java Edition Indev 0.31 20100128, not only could many items stack to 100 but items including diamonds stacked to 100 could be easily obtained in chests in a small box known as the Indev house. However, the stacks of diamonds were not fully useful in this version as diamond tools and blocks were not added until 20100129, but at this time the diamonds could no longer be found there.  
+If the player is playing in adventure mode, they cannot light fires or ignite a nether portal using a flint and steel. However they are still able to use it to ignite TNT and even creepers. 
+Breaking obsidian with different materials takes the following times: no pickaxe- 250s, wooden- 125s, stone- 62.5s, iron- 41.7s, gold- 20.85s, diamond- 9.4s, netherite- 8.35s. 
+Entering a nether portal in survival mode takes 4 seconds (80 game ticks). However, entering the same portal in creative mode takes only 0.05 seconds (1 game tick). 
+In Minecraft Java Edition Alpha v1.2.0 preview, netherrack was known as 'bloodstone' and was also referred to by Notch as 'netherstone' at one point until Beta 1.0 when items were given tooltips, labelling the block as netherrack. 
+In Minecraft Bedrock Edition, when the chest loot tables for bastion remnants were first added, spectral arrows were a possible item despite them not existing in that version of Minecraft. 
+Authough blazes do not have any feet (at least as far as the player can see), they are actually capable of making 'footstep' sounds as they walk. 
+Even though the center of the entrance staircase is always located in the chunk coordinates 4, -, 4, the thrown eye of ender will always lead to the chunk coordinates of 0, -, 0 (the Northwest corner of said chunk). 
+One of the best ways to tell if you are going to mine into an infested block in a stronghold is by only mining mossy and cracked stone bricks as neither of their infested varients generate naturally, they will only be infested if a silverfish enters the block. 
+In Minecraft Java Edition, falling into an end portal block doesn't reset the momentum and the player will take the same amount of damage as normal upon spawning into the end. This can actually mean that if the player falls into the portal from high enough, they will die upon entering. 
+The ender dragon can destroy most blocks in her path; end crystals are not one of these. If the player places water on one then it will provent the blast. However, the damage and knockback will still occur. 
+The ender dragon is actually the largest naturally spawning mob in modern day Minecraft. If the player kills her then a portal back to the overworld will fill the bedrock  fountain. 
+Upon entering the portal blocks in the end fountain, the 'end poem' will play out on screen and will last 7 minutes and 42 seconds; when it is over the credits will play. The end poem was written by Julian Gough and was written freehand on the same day that Notch tweeted that he wanted someone to write a 'silly over the top out of nowhere text'. Unlike other versions, the end poem on Legacy Console versions of Minecraft doesn't lead straight on to the end credits. 
+So has anyone noticed the pattern in 39? I'll say tomorrow if people can't tell.
+When leaves were first added to Minecraft they were not able to decay, then they were and then the decaying was removed again. Then it was re-added, and then removed due to bigger oak trees. Then re-added. Then removed. This is getting ridiculous. Then decay was re-added when not connected to the ground or to a tree trunk and removed again and was re-introduced. Then disabled due to an infinite loop in the code. Then added again with the new system. Bruh. And re-written once again. Finally it was added to stay but leaves placed by a player or an enderman won't decay. Phew. 
+When saddles were first added to Minecraft in Minecraft Java Edition Infdev 20100625-2, they wouldn't actually drop when a saddled pig when killed; the saddle would simply be delete from existence. This wasn't fixed until Minecraft Java Edition 1.4.2 12w36a when the player would finally get the saddle back. 
+In the Minecraft Java Edition 1.4.6 12w50a snapshot, some alternate chest textures were added, they were for the 'Christmas chest' easter egg in Minecraft that would happen in roughly 2 weeks this feature was added over 10 years ago. On December 24-26 every year the textures occur to chests. The textures are made to look like Christmas presents. 🎁
+In Minecraft Bedrock Edition, when any form of tipped arrow is blocked by a shield, it will bounce off like any arrow but still give the status effect to the player. 
+As of 19w13a, the witch will jump up and down and make laughing noises if a raid kills every villager in the village or if during a raid all the beds of the village are destroyed. 
+Even though endermen teleport before being hit by an arrow, a tipped arrow will still inflict the status effect on the enderman without hitting it. The original damage of the arrow will not be inflicted. 
+Sugar was added to Minecraft in Minecraft Java Edition Beta 1.2, it was only added for the purpose of the crafting recipe for cake. It was later given a second use, crafting fermented spider eyes. In modern versions of Minecraft, sugar has many more uses such as potion brewing. 
+Any mobs that are placed in minecarts don't actually count towards the mob cap meaning that the player is able to store extra mobs in their world without lowering mob spawn rates. 
+In Minecraft, it is actually possible to obtain each one of the 16 dye colours with only 1 cocoa bean, 2 yellow dyes, 2 ink sacs, 3 green dyes, 4 lapis lazuli, 4 red dyes, and 2 bones. 
+In the Village and Pillage update banner, a completely impossible witch was shown. The witch had its arms unfolded like one of the pillagers. 
+Prior to Minecraft Java Edition 1.17 21w07a, seagrass could grow in the same place as a swamp hut and prevent the logs from generating. This could occasionally cause swamp huts to not touch the bottom of the water and look very strange until it was fixed. 
+Trident holding drowneds are over twice as rare in Minecraft Java Edition as they are in Minecraft Bedrock Edition with 6.25% as opposed to 15%. However, both versions have a trident drop rate of 8.5% without looting. 
+In Minecraft Java Edition Beta 1.2, oak, birch, and spruce leaves would all drop the oak saplings upon decaying or being broken. This wasn't fixed until Beta 1.5 when they would drop their corresponding saplings. 
+There are actually 3 different types of coral reef in Minecraft: coral tree, coral claw, and coral mushroom. Coral mushroom looks like a small domed building, coral tree looks like tree with 2 to 4 branches normally pointing upwards, coral claw is a coral that has 2 or 3 horizontally pointing branches. 
+The chance of finding a horse armour in a stronghold alter chest in Bedrock Edition is exactly 0.1% less than Java Edition (2.4%-2.5%). 
+In Minecraft Java Edition creative mode, enchantments meant for swords such as: sharpness, fire aspect, and looting are able to be applied to tridents. They even work as though they are on a sword. 
+In a Minecraft Java Edition snapshot known as 18w50a, witches were neutral mobs, only attacking the player when provoked. This was later reverted and confirmed to be a mistake by the person that added the feature: Slimedice. 
+Seagrass was a planned feature all the way back in Minecraft Classic when Notch showed an interest in adding 'seaweed'. It was finally implemented into Minecraft almost 9 years later in the 1.13 aquatic update. 
+Villagers will transform into witches if they are struck by lightning (within a 4 block area around the villager); this is an irreversible transformation and the new witches will never despawn. 
+There are over 5 million different colours leather armour can be dyed in Bedrock Edition; 5,713,438 to be exact. This is because it is possible to put more than one dye in a crafting table with the leather armour. 
+In Minecraft, shears can be used to break the string as a part of a tripwire without actually activating it. This is particularly useful if you are trying to escape somewhere with tripwires in the way. 
+Both powered rails and detector rails were actually added to Minecraft in the same update: Minecraft Java Edition Beta 1.5. In this update they were also changed to be able to be broken faster by the player's hands. 
+'Sea Grass' was added to Minecraft in Minecraft Java Edition 1.13 18w07a when it's inventory item would be animated. It would later be renamed to 'seagrass' which is how it remains today. 
+In Minecraft Bedrock Edition, leaves will slowly transition into snowy varients of their textures in any of the following biomes during snowfall: frozen ocean, deep frozen ocean, frozen river, snowy beach, snowy plains, and snowy taiga. This only happens if fancy graphics is enabled. 
+Up until 18w47a witches could fight each other if one of their potions hit another witch causing a retaliation. However the fighting would last forever as they both used the same AI and could heal themselves. 
+The grass block requires a light level of 4 to spread to a dirt block and converted it to grass; mycelium however spreads to a dirt block when the dirt block recieves a light level of 9. 
+While riding a minecart, the player's hunger bar wasn't visible until 1.11 16w32a. This was okay however as the player wouldn't lose hunger or saturation from sitting and riding in a minecart. 
+In the Bedrock Edition of Minecraft, occasionally strongholds do not generate with a portal room. This is actually intentional, authough it is unknown why. (This includes Xbox 360 and PS3 Editions). 
+A villager can actually be converted into a zombie villager by a trident thrown by a drowned, with the usual chances per difficulty: 0%-easy, 50%-normal, 100-hard. 
+Iron tools and armour can be smelted into a singular iron nugget. However, shears are technically a tool and they cannot be smelted at all. They can however be combined in a crafting table with other shears to combine durability and a 5% durability bonus. 
+In Minecraft Java Edition, coral reefs have received little to no changes since they were first added in Minecraft Java Edition 1.13 18w10d. The only changes being adding coral fans to natural generation in 18w16a and adding a coral reef panorama to the title screen in 1.13 pre-release 1. 
+Authough the ability to throw eggs has been around since Minecraft Java Edition Beta 1.0, and bubble columns were added during the development of the 1.13 aquatic update, thrown eggs were not affected by bubble columns until 1.16.2 pre-release 1 when they were finally able to change momentum and direction by the bubble columns rather than treating them as normal water. 
+Originally, the chance of a leaves block dropping a sapling was 1/10, this was changed in Alpha v1.0.6 to 1/20 making them rarer than before. 
+Surprisingly, if an egg hits another entity while in the air after being thrown, the egg will break. This also has no effect on the chances of spawning a baby chicken. 
+There are actually 3 ways to transform a block of dirt into a block of mud: water bottle, splash water bottle, lingering water bottle. All 3 of these have the ability to create mud however water itself cannot create mud from dirt. 
+When witches were first added to Minecraft, they could accidentally hurt themselves with their own potions if it landed close enough to them. This was fixed in the 12w38b snapshot.
+Despite the primary ingredient in the crafting recipe for an ender chest being obsidian, any pickaxe can mine an ender chest and still get the obsidian, or with silk touch, ender chest as a drop. 
