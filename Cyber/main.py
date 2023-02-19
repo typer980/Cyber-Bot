@@ -93,7 +93,7 @@ async def ModHelp(ctx):
        
       
        view = Menu()
-       view.add_item(discord.ui.Button(label="Documentation",style=discord.ButtonStyle.link, url=""))
+       view.add_item(discord.ui.Button(label="Documentation",style=discord.ButtonStyle.link, url="https://cyber-docs.web.app/"))
        
        await ctx.send(embed=embed, view=view)
 
