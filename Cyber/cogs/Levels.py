@@ -10,16 +10,15 @@ class LevelSystem(commands.Cog):
         self.client = client
 
         self.client.loop.create_task(self.save())
-        
-        with open("cogs/json/users.json", "r") as f:
-             self.users = json.load(f)
 
+        with open("cogs/json/users.json", "r") as f:
+            self.users = json.load(f)
 
     def level_up(self, author_id):
         current_experience = self.users[author_id]["Experience"]
         current_level = self.users[author_id]["Level"]
 
-        if current_experience >= math.ceil((25 * (current_level ** 4)) / 1.5):
+        if current_experience >= math.ceil((6* (current_level ** 4)) / 2.5):
             self.users[author_id]["Level"] += 1
             return True
         else:
@@ -35,24 +34,22 @@ class LevelSystem(commands.Cog):
 
     @commands.Cog.listener()
     async def on_ready(self):
-        print("LevelSystem.py has been loaded!")
-
+        print("LevelSystem.py is ready")
 
     @commands.Cog.listener()
-    async def on_message(self, message):
+    async def on_message(self,message):
         if message.author.id == self.client.user.id:
             return
-        if message.author.bot() is True:
-            await message.channel.send("Bots aren't ranked dummy")
+        
         author_id = str(message.author.id)
 
         if not author_id in self.users:
 
             self.users[author_id] = {}
-            self.users[author_id]["Level"] = 1
+            self.users[author_id]["Level"] = 0
             self.users[author_id]["Experience"] = 0
-            
-        random_exp = random.randint(2, 8)
+
+        random_exp = random.randint(5, 15)
         self.users[author_id]["Experience"] += random_exp
 
         if self.level_up(author_id):
